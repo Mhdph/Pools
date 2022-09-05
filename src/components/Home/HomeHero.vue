@@ -6,11 +6,11 @@
           class="flex gap-4 items-center text-[#616161] mr-2 text-xs sm:text-base"
         >
           <img
-            src="../assets/Screenshot_from_2022-08-31_13-26-27-removebg-preview.png"
+            src="../../assets/Screenshot_from_2022-08-31_13-26-27-removebg-preview.png"
             class="h-6 w-6 sm:hidden lg:inline lg:h-[72px] lg:w-[72px]"
             alt=""
           />
-          <a class="text-blue-800">پارک آبی</a>
+          <router-link to="" class="text-blue-800">پارک آبی</router-link>
           <a>استخرها</a>
           <a>ثبت نام در کلاس</a>
           <a>مقاله ها</a>
@@ -27,7 +27,7 @@
           <div
             class="flex absolute inset-y-0 left-36 items-center pl-3 pointer-events-none"
           >
-            <img src="../assets/search-normal.png" alt="" />
+            <img src="../../assets/search-normal.png" alt="" />
           </div>
         </div>
         <button
@@ -35,7 +35,7 @@
           class="text-white border-solid font-dana border-2 border-[#5C7FFE] bg-[#1548fe] hover:bg-blue-800 focus:outline-none focus:ring-4 focus:ring-blue-300 font-medium rounded-xl text-sm px-5 py-2 text-center mr-2"
         >
           <div class="flex items-center">
-            <img src="../assets/security-user.png" class="" alt="" />
+            <img src="../../assets/security-user.png" class="" alt="" />
             ثبت نام/ورود
           </div>
         </button>
@@ -49,7 +49,7 @@
       </p>
     </div>
     <div
-      class="bg-white rounded-full xs:mr-24 lg:mr-96 2xl:mr-[500px] xl:w-[42%] xs:w-[80%] w-full flex gap-12 justify-center items-center h-12"
+      class="bg-white rounded-full 2xl:mt-10 xs:mr-24 lg:mr-96 2xl:mr-[500px] xl:w-[42%] xs:w-[80%] w-full flex gap-12 justify-center items-center h-12"
     >
       <div>
         <select
@@ -73,7 +73,7 @@
       >
         <img
           class="w-6 h-6"
-          src="../assets/vuesaxlinearsearchnormal.svg"
+          src="../../assets/vuesaxlinearsearchnormal.svg"
           alt=""
         />
       </div>
@@ -86,26 +86,8 @@ import { defineComponent } from "vue";
 
 export default defineComponent({
   name: "HomeHero",
-  props: {
-    msg: String,
-  },
 });
 </script>
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
-<style scoped>
-h3 {
-  margin: 40px 0 0;
-}
-ul {
-  list-style-type: none;
-  padding: 0;
-}
-li {
-  display: inline-block;
-  margin: 0 10px;
-}
-a {
-  color: #42b983;
-}
-</style>
+<style scoped></style>
