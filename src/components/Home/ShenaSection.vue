@@ -22,7 +22,7 @@
         ثبت نام کنید :
       </p>
       <div
-        class="flex items-center border border-solid border-white rounded-md mr-24 xl:mr-44 2xl:mr-1 -mt-3 sm:mt-8 w-[50%] sm:w-[60%] xl:w-[70%] justify-center"
+        class="flex items-center border border-solid p-3 border-white rounded-md mr-24 xl:mr-44 2xl:mr-1 -mt-3 sm:mt-8 w-[50%] sm:w-[60%] xl:w-[70%] justify-center"
       >
         <p class="text-white text-xs">برای ثبت نام کلیک کنید</p>
         <img

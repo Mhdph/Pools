@@ -4,7 +4,7 @@
   <div
     class="flex bg-[#f6f7fe] justify-center font-dana overflow-scroll mb-20 w-full -mt-40 gap-4"
   >
-    <div class="w-64 mr-[1100px] md:mr-[700px] lg:mr-80 2xl:mr-0 2xl:ml-10">
+    <div class="w-64 mr-[1100px] md:mr-[700px] lg:mr-20 2xl:mr-0 2xl:ml-10">
       <p class="text-2xl mt-8 font-bold">
         جدیدترین‌ <span class="text-[#1548FE]">استخـــرها</span>
       </p>
@@ -15,7 +15,7 @@
       </p>
       <img
         src="./../../assets/slideicon.svg"
-        class="h-20 w-20 mt-6 mr-40"
+        class="h-20 w-20 mt-6 mr-32"
         alt=""
       />
     </div>
@@ -90,7 +90,7 @@
   <div
     class="flex bg-[#f6f7fe] justify-center font-dana overflow-scroll my-20 w-full gap-4"
   >
-    <div class="w-64 mr-[1100px] md:mr-[700px] lg:mr-80 2xl:mr-0 2xl:ml-10">
+    <div class="w-64 mr-[1100px] md:mr-[700px] lg:mr-20 2xl:mr-0 2xl:ml-10">
       <p class="text-3xl mt-8 font-bold">
         پارک های‌ <span class="text-[#1548FE]">آبــــی</span>
       </p>
@@ -100,7 +100,7 @@
       </p>
       <img
         src="./../../assets/slideicon.svg"
-        class="h-20 w-20 mt-16 mr-40"
+        class="h-20 w-20 mt-16 mr-32"
         alt=""
       />
     </div>

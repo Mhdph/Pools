@@ -1,7 +1,7 @@
 <template lang="">
   <!-- testimonial -->
   <div
-    class="flex flex-col lg:flex-row justify-center bg-[#f6f7fe] text-center items-center font-dana my-10 w-full gap-24"
+    class="flex flex-col lg:flex-row justify-center bg-[#f6f7fe] px-16 text-center items-center font-dana my-10 w-full gap-24"
   >
     <div
       class="flex w-96 h-full p-10 items-center flex-col bg-white shadow-2xl shadow-[#7591f8] rounded-xl"

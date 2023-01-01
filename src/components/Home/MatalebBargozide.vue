@@ -1,7 +1,7 @@
 <template lang="">
   <!-- mataleb bargozide -->
   <hr
-    class="w-[70%] border border-gray-500 border-opacity-5 mb-4 ml-40 sm:-mt-60 xl:-mt-72 2xl:-mt-40"
+    class="w-[70%] border border-gray-500 border-opacity-5 mb-4 ml-40 sm:-mt-60 xl:-mt-82 2xl:-mt-36"
   />
   <p
     class="font-bold text-lg font-dana sm:text-lg xl:text-2xl mr-2 sm:mr-6 lg:mr-32 2xl:mr-16"
